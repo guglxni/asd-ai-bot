@@ -1,0 +1,18 @@
+autism-assessment-bot/
+├── backend/
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── models/
+│   │   ├── routes/
+│   │   ├── services/
+│   │   └── utils/
+│   ├── config.py
+│   ├── requirements.txt
+│   └── run.py
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   └── package.json
+└── docker/
+    ├── Dockerfile.backend
+    └── Dockerfile.frontend 
